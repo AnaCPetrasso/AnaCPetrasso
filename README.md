@@ -8,7 +8,6 @@ Soy una apasionada desarrolladora Frontend con un enfoque en crear experiencias 
 
 ## Habilidades técnicas
 - HTML5, CSS3 y JavaScript
-- React.js, Vue.js
 - Responsive Web Design
 - Manejo de herramientas de control de versiones (Git)
 
