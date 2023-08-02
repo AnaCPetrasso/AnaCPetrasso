@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ana Carolina Petrasso</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+![BANNER](https://user-images.githubusercontent.com/116232147/215499863-f4d08071-b4cf-4dc1-bcce-b383ca7040bf.png)
+# ¡Hola! 👋 Soy Ana Carolina Petrasso
 
-- 🌱 I’m currently learning **Frontend Development**
+¡Bienvenido/a a mi perfil de GitHub! 😄
 
-- 👨‍💻 All of my projects are available at [https://portafolio-petrasso.000webhostapp.com/](https://portafolio-petrasso.000webhostapp.com/)
+## Sobre mí
+Soy una apasionada desarrolladora Frontend con un enfoque en crear experiencias digitales únicas y atractivas. Disfruto trabajando con tecnologías web modernas para diseñar interfaces interactivas y amigables. Mi objetivo es construir productos y aplicaciones que hagan la vida de las personas más fácil y emocionante.
 
-- 💬 Ask me about **HTML, CSS**
+## Habilidades técnicas
+- HTML5, CSS3 y JavaScript
+- React.js, Vue.js
+- Responsive Web Design
+- Manejo de herramientas de control de versiones (Git)
 
-- 📫 How to reach me **carolia15petrasso@gmail.com**
+## Proyectos destacados
+- [Generador de Memes!](https://anacpetrasso.github.io/Editor-de-memes/) - Este es un generador de memes creado para presentar como projecto final del Módulo 2 - JavaScript para el curso de desarrollo frontend de ADA.
+- [Portafolio](https://anacpetrasso.github.io/Portafolio-ADA/) - Este es mi portafolio personal creado para presentar como profecto final del Módulo 1 - HTML y CSS para el curso de desarrollo frontend de ADA. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@anacpetrasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anacpetrasso" height="30" width="40" /></a>
-<a href="https://twitter.com/caritopetra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caritopetra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anacpetrasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anacpetrasso" height="30" width="40" /></a>
-<a href="https://instagram.com/@caroopetrasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@caroopetrasso" height="30" width="40" /></a>
-</p>
+## Contacto
+¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes redes sociales:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- [LinkedIn](https://www.linkedin.com/in/anacpetrasso/)
+- [Gmail](mailto:carolina15petrasso@gmail.com)
+- [Instagram](https://www.instagram.com/caroopetrasso/?hl=es)
+
+Si tienes alguna pregunta, sugerencia o simplemente deseas charlar sobre desarrollo Frontend, no dudes en enviarme un mensaje directo o mencionarme en alguna de mis redes sociales. ¡Espero tener noticias tuyas pronto! 😊
+
+¡Gracias por visitar mi perfil!
